@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.tpp": "cpp",
+        "array": "cpp",
+        "iterator": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "vector": "cpp"
+    },
+    "terminal.integrated.shell.windows": "cmd.exe",
+    "C_Cpp.errorSquiggles": "Disabled"
+}
